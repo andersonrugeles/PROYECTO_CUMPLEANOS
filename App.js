@@ -33,7 +33,7 @@ function Logout(){
 <Button title="Cerrar Sesion" onPress={logout}/>
 </View>
   )
-}
+}hpta bobo
 
 const styles= StyleSheet.create({
   background:{
